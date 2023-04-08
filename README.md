@@ -1,5 +1,5 @@
 # OpenSSL Encryption/Decryption
-
+ ![My Image](assets/openssl.png)
 <br>
 by CyberAybie
 
